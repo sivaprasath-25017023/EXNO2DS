@@ -29,7 +29,7 @@ import numpy as np
 import seaborn as sns
 df=pd.read_csv('titanic_dataset.csv')
 df
-```
+
 <img width="734" height="479" alt="image" src="https://github.com/user-attachments/assets/06b6a58f-fabc-48fe-9f48-c205654705ab" />
 <img width="1104" height="403" alt="image" src="https://github.com/user-attachments/assets/d2c441df-d94b-4991-a28b-f990d24f59f0" />
 <img width="818" height="619" alt="image" src="https://github.com/user-attachments/assets/2ffe0795-3315-4f4b-a7fa-f8aef494dcf7" />
